@@ -1,0 +1,45 @@
+CEINMS output
+datacolumns 7
+datarows 40
+endheader
+time	glut_med1_r	glut_med2_r	glut_med3_r	glut_min1_r	glut_min2_r	glut_min3_r	semimem_r	semiten_r	bifemlh_r	bifemsh_r	sar_r	add_long_r	add_brev_r	add_mag1_r	add_mag2_r	add_mag3_r	tfl_r	pect_r	grac_r	glut_max1_r	glut_max2_r	glut_max3_r	iliacus_r	psoas_r	quad_fem_r	gem_r	peri_r	rect_fem_r	vas_med_r	vas_int_r	vas_lat_r	med_gas_r	lat_gas_r	soleus_r	tib_post_r	flex_dig_r	flex_hal_r	tib_ant_r	per_brev_r	per_long_r	per_tert_r	ext_dig_r	ext_hal_r	glut_med1_l	glut_med2_l	glut_med3_l	glut_min1_l	glut_min2_l	glut_min3_l	semimem_l	semiten_l	bifemlh_l	bifemsh_l	sar_l	add_long_l	add_brev_l	add_mag1_l	add_mag2_l	add_mag3_l	tfl_l	pect_l	grac_l	glut_max1_l	glut_max2_l	glut_max3_l	iliacus_l	psoas_l	quad_fem_l	gem_l	peri_l	rect_fem_l	vas_med_l	vas_int_l	vas_lat_l	med_gas_l	lat_gas_l	soleus_l	tib_post_l	flex_dig_l	flex_hal_l	tib_ant_l	per_brev_l	per_long_l	per_tert_l	ext_dig_l	ext_hal_l	ercspn_r	ercspn_l	intobl_r	intobl_l	extobl_r	extobl_l	
+0.17	1.78884	4.63268	2.2102	1	5	10	
+0.18	3.02325	4.97117	1.81604	1	5	10	
+0.19	7.15686	5.17782	2.15739	1	5	10	
+0.2	9.91633	4.96305	2.02989	1	5	10	
+0.21	9.63678	4.65873	1.85847	1	5	10	
+0.22	7.39277	4.18662	1.65285	1	5	10	
+0.23	4.14639	3.59412	1.23387	1	5	10	
+0.24	1.4692	2.97011	0.929749	1	5	10	
+0.25	0.166348	2.36141	0.664683	1	5	10	
+0.26	1.10007	1.85198	0.485916	1	5	10	
+0.27	2.03934	1.40549	0.419738	1	5	10	
+0.28	1.93779	1.10018	0.353586	1	5	10	
+0.29	0.621011	0.958131	0.283841	1	5	10	
+0.3	0.0914796	0.905885	0.198509	1	5	10	
+0.31	0.18024	0.927273	0.169965	1	5	10	
+0.32	0.231305	0.947757	0.167469	1	5	10	
+0.33	0.3096	1.01551	0.177942	1	5	10	
+0.34	0.431946	1.11568	0.200824	1	5	10	
+0.35	0.597259	1.23694	0.234243	1	5	10	
+0.36	0.773908	1.35652	0.271883	1	5	10	
+0.37	0.946476	1.46009	0.306535	1	5	10	
+0.38	1.08459	1.5319	0.33121	1	5	10	
+0.39	1.14993	1.56065	0.3411	1	5	10	
+0.4	1.12387	1.54419	0.33565	1	5	10	
+0.41	1.01522	1.48766	0.31858	1	5	10	
+0.42	0.860183	1.41349	0.295151	1	5	10	
+0.43	0.693613	1.33514	0.272948	1	5	10	
+0.44	0.547897	1.27083	0.257929	1	5	10	
+0.45	0.444098	1.23494	0.253679	1	5	10	
+0.46	0.393475	1.23618	0.261511	1	5	10	
+0.47	0.405621	1.27759	0.281255	1	5	10	
+0.48	0.510845	1.35961	0.312714	1	5	10	
+0.49	0.782717	1.47998	0.353338	1	5	10	
+0.5	1.37928	1.62336	0.405873	1	5	10	
+0.51	2.58778	1.7643	0.487889	1	5	10	
+0.52	4.8964	1.90567	0.576556	1	5	10	
+0.53	8.96851	2.02558	0.665219	1	5	10	
+0.54	15.3584	2.09865	0.767278	1	5	10	
+0.55	23.8682	2.10617	0.881644	1	5	10	
+0.56	33.0374	2.04626	0.997703	1	5	10	
