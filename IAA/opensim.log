@@ -1,0 +1,85 @@
+[2025-06-16 11:28:06.705] [info] AbstractTool subject01 loading model Sub01_Scaled_adjusted.osim
+[2025-06-16 11:28:06.781] [info] Updating Model file from 40000 to latest format...
+[2025-06-16 11:28:06.834] [info] Loaded model subject01 from file Sub01_Scaled_adjusted.osim
+[2025-06-16 11:28:06.836] [warning] Couldn't find file 'treadmill.vtp'.
+[2025-06-16 11:28:06.838] [warning] Couldn't find file 'sacrum.vtp'.
+[2025-06-16 11:28:06.839] [warning] Couldn't find file 'pelvis.vtp'.
+[2025-06-16 11:28:06.840] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2025-06-16 11:28:06.841] [warning] Couldn't find file 'femur.vtp'.
+[2025-06-16 11:28:06.842] [warning] Couldn't find file 'tibia.vtp'.
+[2025-06-16 11:28:06.843] [warning] Couldn't find file 'fibula.vtp'.
+[2025-06-16 11:28:06.844] [warning] Couldn't find file 'talus.vtp'.
+[2025-06-16 11:28:06.845] [warning] Couldn't find file 'foot.vtp'.
+[2025-06-16 11:28:06.846] [warning] Couldn't find file 'bofoot.vtp'.
+[2025-06-16 11:28:06.847] [warning] Couldn't find file 'l_femur.vtp'.
+[2025-06-16 11:28:06.848] [warning] Couldn't find file 'l_tibia.vtp'.
+[2025-06-16 11:28:06.849] [warning] Couldn't find file 'l_fibula.vtp'.
+[2025-06-16 11:28:06.849] [warning] Couldn't find file 'l_talus.vtp'.
+[2025-06-16 11:28:06.850] [warning] Couldn't find file 'l_foot.vtp'.
+[2025-06-16 11:28:06.851] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2025-06-16 11:28:06.853] [warning] Couldn't find file 'hat_spine.vtp'.
+[2025-06-16 11:28:06.854] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2025-06-16 11:28:06.855] [warning] Couldn't find file 'hat_skull.vtp'.
+[2025-06-16 11:28:06.855] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2025-06-16 11:28:06.867] [info] Adding force object set from gait2392_CMC_Actuators.xml
+[2025-06-16 11:28:06.899] [error] ControlSetController::extendFinalizeFromProperties Unable to load control set file 'CMC_controls.xml'.
+Details: Object: Cannot open file CMC_controls.xml. It may not exist or you do not have permission to read it.
+	Thrown at Object.cpp:106 in Object().
+[2025-06-16 11:29:02.333] [info] AbstractTool subject01 loading model Sub01_Scaled_adjusted.osim
+[2025-06-16 11:29:02.390] [info] Updating Model file from 40000 to latest format...
+[2025-06-16 11:29:02.474] [info] Loaded model subject01 from file Sub01_Scaled_adjusted.osim
+[2025-06-16 11:29:02.475] [warning] Couldn't find file 'treadmill.vtp'.
+[2025-06-16 11:29:02.475] [warning] Couldn't find file 'sacrum.vtp'.
+[2025-06-16 11:29:02.476] [warning] Couldn't find file 'pelvis.vtp'.
+[2025-06-16 11:29:02.476] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2025-06-16 11:29:02.477] [warning] Couldn't find file 'femur.vtp'.
+[2025-06-16 11:29:02.477] [warning] Couldn't find file 'tibia.vtp'.
+[2025-06-16 11:29:02.478] [warning] Couldn't find file 'fibula.vtp'.
+[2025-06-16 11:29:02.478] [warning] Couldn't find file 'talus.vtp'.
+[2025-06-16 11:29:02.479] [warning] Couldn't find file 'foot.vtp'.
+[2025-06-16 11:29:02.479] [warning] Couldn't find file 'bofoot.vtp'.
+[2025-06-16 11:29:02.480] [warning] Couldn't find file 'l_femur.vtp'.
+[2025-06-16 11:29:02.481] [warning] Couldn't find file 'l_tibia.vtp'.
+[2025-06-16 11:29:02.481] [warning] Couldn't find file 'l_fibula.vtp'.
+[2025-06-16 11:29:02.482] [warning] Couldn't find file 'l_talus.vtp'.
+[2025-06-16 11:29:02.483] [warning] Couldn't find file 'l_foot.vtp'.
+[2025-06-16 11:29:02.483] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2025-06-16 11:29:02.483] [warning] Couldn't find file 'hat_spine.vtp'.
+[2025-06-16 11:29:02.484] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2025-06-16 11:29:02.484] [warning] Couldn't find file 'hat_skull.vtp'.
+[2025-06-16 11:29:02.485] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2025-06-16 11:29:02.502] [info] Adding force object set from gait2392_CMC_Actuators.xml
+[2025-06-16 11:29:02.511] [error] ControlSetController::extendFinalizeFromProperties Unable to load control set file 'CMC_controls.xml'.
+Details: Object: Cannot open file CMC_controls.xml. It may not exist or you do not have permission to read it.
+	Thrown at Object.cpp:106 in Object().
+[2025-06-16 11:29:03.362] [warning] ControlSetController::extendFinalizeFromProperties 'CMC_controls.xml' loaded and will replace existing ControlSet 'subject01'.
+[2025-06-16 11:29:03.455] [info] Old version storage/motion file encountered
+[2025-06-16 11:29:03.456] [info] Storage: read data file = Walk01_grf.mot (nr=1531 nc=19)
+[2025-06-16 11:29:03.456] [info] .. assuming rotations in Degrees..
+[2025-06-16 11:29:03.505] [info] ExternalForce::GRF_R Data source being set to Walk01_grf.mot
+[2025-06-16 11:29:03.505] [info] ExternalForce::GRF_L Data source being set to Walk01_grf.mot
+[2025-06-16 11:29:03.536] [info] Loading states from file 'CMC_states.sto'.
+[2025-06-16 11:29:03.557] [info] Storage: read data file = CMC_states.sto (nr=1741 nc=231)
+[2025-06-16 11:29:04.334] [info] Found 1741 state vectors with time stamps ranging from 0.36 to 1.289.
+[2025-06-16 11:29:04.334] [info] Executing the analyses from 0.93377 to 1.22693...
+[2025-06-16 11:29:04.936] [warning] ControlSetController::extendFinalizeFromProperties 'CMC_controls.xml' loaded and will replace existing ControlSet 'subject01'.
+[2025-06-16 11:29:04.968] [info] Old version storage/motion file encountered
+[2025-06-16 11:29:04.968] [info] Storage: read data file = Walk01_grf.mot (nr=1531 nc=19)
+[2025-06-16 11:29:04.968] [info] .. assuming rotations in Degrees..
+[2025-06-16 11:29:05.010] [info] ExternalForce::GRF_R Data source being set to Walk01_grf.mot
+[2025-06-16 11:29:05.010] [info] ExternalForce::GRF_L Data source being set to Walk01_grf.mot
+[2025-06-16 11:29:05.035] [info] Performing Induced Accelerations Analysis
+[2025-06-16 11:29:05.035] [info] time = 0.93377
+[2025-06-16 11:29:05.516] [info] time = 0.941418
+[2025-06-16 11:29:05.811] [info] time = 0.962399
+[2025-06-16 11:29:06.096] [info] time = 0.986982
+[2025-06-16 11:29:06.383] [info] time = 1.01945
+[2025-06-16 11:29:06.682] [info] time = 1.05
+[2025-06-16 11:29:06.975] [info] time = 1.08031
+[2025-06-16 11:29:07.350] [info] time = 1.11533
+[2025-06-16 11:29:07.703] [info] time = 1.14344
+[2025-06-16 11:29:08.148] [info] time = 1.16209
+[2025-06-16 11:29:08.665] [info] time = 1.18884
+[2025-06-16 11:29:09.106] [info] time = 1.21576
+[2025-06-16 11:29:09.489] [info] time = 1.22693
+[2025-06-16 11:29:09.838] [info] Printing results of investigation subject01 to ResultsInducedAccelerations
